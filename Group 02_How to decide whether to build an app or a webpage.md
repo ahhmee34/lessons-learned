@@ -14,3 +14,5 @@ When thinking about whether to build an app or a site, one should consider:
 See http://mashable.com/2012/06/06/mobile-site-mobile-app-infographic/
 
 ![Picture](http://nadirkeval.com/wp-content/uploads/2014/04/girlhappy.jpg)
+
+Happy Developing!
