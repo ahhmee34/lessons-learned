@@ -2,6 +2,5 @@ The lean launchpad approach is a very easy and effective way to get your softwar
 
 Visit The Lean Startup by Eric Reis to purchase the book and to learn more about his methods: http://theleanstartup.com
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![Picture](/desktop/pic1.jpg)
 
