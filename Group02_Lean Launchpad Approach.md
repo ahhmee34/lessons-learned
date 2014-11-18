@@ -2,6 +2,6 @@ The lean launchpad approach is a very easy and effective way to get your softwar
 
 Visit The Lean Startup by Eric Reis to purchase the book and to learn more about his methods: http://theleanstartup.com
 
-One of the methodologies behind the Lean Launchpad Method is to use a Business Model Canvas to help you identify your Minimum Viable Product:
+One of the methodologies behind the Lean Launchpad Approach is to use a Business Model Canvas to help you identify your Minimum Viable Product:
 ![Picture](http://steveblank.files.wordpress.com/2010/12/business-model-and-cust-dev.jpg)
 
