@@ -7,3 +7,5 @@
 We then create a Backlog, in order to keep track of our requirements and - essentially - product to-do's.
 What's ironic about this process is that we use seemingly simple, manual post-its in order to track our digitally savvy selves, and the products we are developing.
 What a fun and sensible way to keep our development moving full speed ahead towards "ship," without hitting an iceberg.
+
+Chekc out RallyDev's piece for further info on User Stories: https://www.rallydev.com/toolkits/user-stories-toolkit-0
