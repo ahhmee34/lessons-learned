@@ -15,6 +15,7 @@ See
 http://mashable.com/2012/06/06/mobile-site-mobile-app-infographic/
 http://phonegap.com/ 
 http://www.appcelerator.com/titanium/
+http://designshack.net/articles/css/mobilefirst/
 
 ![Picture](http://nadirkeval.com/wp-content/uploads/2014/04/girlhappy.jpg)
 
