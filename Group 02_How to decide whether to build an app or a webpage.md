@@ -11,7 +11,10 @@ When thinking about whether to build an app or a site, one should consider:
 
 -	How will the product be used – is this something that people are going to need to use mostly on the go, if so an app might be best, or is it something that you might need to spend some time looking at perhaps on a PC or tablet, in which case a site would be better. 
 
-See http://mashable.com/2012/06/06/mobile-site-mobile-app-infographic/
+See 
+http://mashable.com/2012/06/06/mobile-site-mobile-app-infographic/
+http://phonegap.com/ 
+http://www.appcelerator.com/titanium/
 
 ![Picture](http://nadirkeval.com/wp-content/uploads/2014/04/girlhappy.jpg)
 
