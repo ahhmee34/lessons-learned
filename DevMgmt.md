@@ -13,3 +13,7 @@ in the workplace.
 Finally, it is important to break tasks down into individual features so that progress is made in shorter periods of time.  This is an example of 
 how spring  could be used.  Breaking down development tasks into acheivable goals is important and enables the team to continue to make 
 progress during each sprint duration.
+
+Some other helpful links:
+
+http://www.cio.com/article/2435469/developer/managing-and-motivating-developers--tips-for-management-cluefulness.html
